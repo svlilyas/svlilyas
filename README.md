@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Yaay](https://play.google.com/store/apps/details?id=com.yerli.sosyal&hl=tr&gl=US)
 
-- 🌱 I’m currently learning **Algorithms and big problems and how to solve easily**
+- 🌱 I’m currently learning **Algorithms and how to deal with big problems**
 
 - 💬 Ask me about **Android, Kotlin, Java**
 
