@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svlilyas&label=Profile%20views&color=0e75b6&style=flat" alt="svlilyas" /> </p>
 
-- 🔭 I’m currently working on [Yaay](https://play.google.com/store/apps/details?id=com.yerli.sosyal&hl=tr&gl=US)
+- 🔭 I’m currently working at [Mobilist](https://www.mobilist.com.tr/tr/index.php)
 
 - 🌱 I’m currently learning **Algorithms and how to deal with big problems**
 
-- 💬 Ask me about **Android, Kotlin, Java**
+- 💬 Ask me about **Android, Kotlin, Java, Jetpack Compose**
 
 - 📫 How to reach me **ilyas.savli@hotmail.com**
 
